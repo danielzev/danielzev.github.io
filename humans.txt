@@ -1,0 +1,18 @@
+/* TEAM */
+
+    CEO: Daniel Marashlian
+    Twitter: @danielzev
+    From: San Diego, CA
+
+/* SITE */
+
+    Host: GoDaddy
+    Stack: HTML & Bootstrap
+    Doctype: HTML5
+    IDE: Sublime Text
+
+/* COMPANY */
+  
+    Name: Zev Labs, LLC
+    Twitter: @zevlabs
+    From: San Diego, CA

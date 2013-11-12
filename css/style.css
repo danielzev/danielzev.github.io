@@ -1598,7 +1598,13 @@ footer .footer-slogan h2 {
 
 /* Smaller than standard 980 (devices and browsers) */
 @media only screen and (max-width: 979px) {
-
+    /* kill major section animation on mobile */
+    #whatido, #stuffimade, #casestudies, #getintouch {
+        -webkit-animation-duration: 0;
+        -moz-animation-duration: 0;
+        -o-animation-duration: 0;
+        animation-duration: 0;
+    }
 }
 
 /* Tablet Portrait size to standard 980 (devices and browsers) */

@@ -1259,10 +1259,52 @@ ul.map-menu li:last-child {
     position: relative;
 }
 
-    .resume-link .inner-container {
-        width: auto;
-        padding: 0 20px;
-    }
+.resume-link .inner-container {
+    width: auto;
+    padding: 0 20px;
+}
+
+.resume-link li {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.resume-link li:hover a {
+    color: #00bdec;
+}
+
+.resume-link li a {
+    color: rgb(102,102,102);
+    padding: 0 4px;
+}
+
+.resume-link li.twitter:hover a {
+    color: #00bdec;
+}
+
+.resume-link li.facebook:hover a {
+    color: #3b5998;
+}
+
+.resume-link li.linkedin:hover a {
+    color: #1b92bd;
+}
+
+.resume-link li.googleplus:hover a {
+    color: #d94a39;
+}
+
+.resume-link li.dribbble:hover a {
+    color: #ef5b92;
+}
+
+.resume-link li.skype:hover a {
+    color: #18b7f1;
+}
+
+.resume-link li.mail:hover a {
+    color: #ff7f00;
+}
 
 .profile-pic-container {
     width: auto;
@@ -1657,7 +1699,7 @@ footer .footer-slogan h2 {
     .blog li a h3, .blog li a p { padding-left: 10px; padding-right: 10px; }
     .filter a { margin-bottom: 10px; }
     .resume-top { min-height: 150px; max-height: 200px; background-position: right bottom; }
-    .resume-link .ss, .resume-name span { display: none; }
+    .resume-link ul, .resume-link .ss, .resume-name span { display: none; }
     .resume-name { font-size: 50px; left: 115px; }
     .resume-link .inner-container { padding: 0 10px; }
     .profile-pic-container { bottom: 10px; }

@@ -709,12 +709,13 @@ nav select {
     margin: 15px 20px;
 }
 
-.social-wrapper .social div a img {
+.social-wrapper .social div a {
     opacity: .8;
     -webkit-transition: opacity .15s ease-out;
     -moz-transition: opacity .15s ease-out;
     -o-transition: opacity .15s ease-out;
     transition: opacity .15s ease-out;
+    font-size: 60px;
 }
 
 .social-wrapper .social div a:hover>img {
@@ -798,8 +799,9 @@ nav select {
    Portfolio
    ========================================================================== */
 
-.portfolio {
-    
+.portfolio .small {
+    height: 150px;
+    width: 150px;
 }
 
 .filter {
@@ -1278,28 +1280,44 @@ ul.map-menu li:last-child {
     padding: 0 4px;
 }
 
+.social div.twitter:hover a,
 .resume-link li.twitter:hover a {
     color: #00bdec;
 }
 
+.social div.facebook:hover a,
 .resume-link li.facebook:hover a {
     color: #3b5998;
 }
 
+.social div.linkedin:hover a,
 .resume-link li.linkedin:hover a {
     color: #1b92bd;
 }
 
+.social div.googleplus:hover a,
 .resume-link li.googleplus:hover a {
     color: #d94a39;
 }
 
+.social div.dribbble:hover a,
 .resume-link li.dribbble:hover a {
     color: #ef5b92;
 }
 
+.social div.skype:hover a,
 .resume-link li.skype:hover a {
     color: #18b7f1;
+}
+
+.social div.youtube:hover a,
+.resume-link li.youtube:hover a {
+    color: #d20800;
+}
+
+.social div.github:hover a,
+.resume-link li.github:hover a {
+    color: #000;
 }
 
 .resume-link li.mail:hover a {
@@ -1454,6 +1472,7 @@ ul.lined-list li:last-of-type {
 }
 
 /*** Resume Portfolio ***/
+
 ul.gallery {
     position: relative;
     z-index: 1; /* prevent shadows falling behind containers with backgrounds */

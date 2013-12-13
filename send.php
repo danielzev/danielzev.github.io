@@ -19,7 +19,7 @@ $headers   .= 'From: hello@danielzev.com' . "\r\n";
 
 if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
     mail($to, $subject, $body, $headers);
-    $data['message'] = 'Woohoo! Your inquiry was sent.';
+    $data['message'] = 'Woohoo! Your message was sent.';
     $data['success'] = true;
 } else {
     $data['message'] = 'Doh! Please provide a valid email address.';

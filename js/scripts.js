@@ -1,22 +1,27 @@
-$('#submit').click(function() {
-    var form = $('#mycontactform');
-    $.ajax({
-        url: form.attr('action'),
-        data: form.serialize(),
-        type: 'post',
-        dataType: 'json',
-        success: function(json) {
-            var success = $('#success');
-            success.html(json.message).removeClass('alert alert-success alert-error');
-            if (json.success) {
-                success.addClass('alert alert-success');
-            } else {
-                success.addClass('alert alert-error');
+$(function() {
+    $('#submit').click(function() {
+        var form = $('#mycontactform');
+        $.ajax({
+            url: form.attr('action'),
+            data: form.serialize(),
+            type: 'post',
+            dataType: 'json',
+            success: function(json) {
+                var success = $('#success');
+                success.html(json.message).removeClass('alert alert-success alert-error');
+                if (json.success) {
+                    success.addClass('alert alert-success');
+                } else {
+                    success.addClass('alert alert-error');
+                }
             }
-        }
+        });
+        return false;
     });
-    return false;
+
+    $('#mycontactform').ebcaptcha();
 });
+
 
 /* ==========================================================================
    Widget Toggle

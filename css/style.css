@@ -1161,18 +1161,22 @@ ul.map-menu li:last-child {
     position: relative;
 }
 
-    .contact-address address i {
-        width: 15px;
-        display: inline-block;
-        position: absolute;
-        left: 0;
-        top: 3px;
-    }
+.contact-address address i {
+    width: 15px;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 3px;
+}
 
-    .contact-address h3 {
-        padding: 10px;
-        margin-top: 0;
-    }
+.contact-address h3 {
+    padding: 10px;
+    margin-top: 0;
+}
+
+#ebcaptchatext {
+    margin-right: 10px;
+}
 
 /* ==========================================================================
    Resume

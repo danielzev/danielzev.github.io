@@ -20,6 +20,7 @@ $(function() {
     });
 
     $('#mycontactform').ebcaptcha();
+    $('#mycontactform #protect').val('no-more-spam');
 });
 
 

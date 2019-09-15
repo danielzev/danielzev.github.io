@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 1
+date: 2019-09-06
+title: Portfolium
+img: portfolium.png
+img-thumb: portfolium-thumb.png
+alt: Portfolium
+site: portfolium.com
+site-url: https://portfolium.com
+project-date: May 2014 - Feb 2019
+position: Co-Founder & CTO
+description: Portfolium partners with colleges and universities to help students connect learning with opportunity. Our full stack student success network helps millions of students from over 3,500 academic institutions prove their skills and launch their careers, while providing educators and employers with the tools they need to assess learning outcomes, build pathways, issue badges, and recruit talent.<br><br><a href="https://www.sandiegouniontribune.com/business/technology/sd-fi-portfolium-acquisition-20190314-story.html" target="_blank">Portfolium was acquired for $43M</a> by <a href="https://www.instructure.com" target="_blank">Instructure (the makers of Canvas)</a>
+
+---

@@ -6,13 +6,13 @@
 
 /* SITE */
 
-    Host: GoDaddy
+    Host: Github Pages
     Stack: HTML & Bootstrap
     Doctype: HTML5
     IDE: Sublime Text
 
 /* COMPANY */
-  
+
     Name: Zev Labs, LLC
     Twitter: @zevlabs
     From: San Diego, CA

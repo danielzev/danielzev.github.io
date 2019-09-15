@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 3
+date: 2019-09-04
+title: Lockerz
+img: lockerz.png
+img-thumb: lockerz-thumb.jpg
+alt: Lockerz
+site: lockerz.com
+site-url: https://www.crunchbase.com/organization/ador
+project-date: Jan 2011 - Mar 2013
+position: Director of Engineering
+description: Lockerz (a.k.a. Ador) was an international social commerce website focused on Generation Z. It operated on the basis of accumulating and spending Lockerz points, also called PTZ. Members acquired PTZ for logging into the site, watching short videos, referring friends, answering daily questions and polls, or purchasing items from Lockerz, among other activities. PTZ could be used for discounts on clothing, electronics, fashion accessories and other products in the Lockerz SHOP.<br><br><a href="https://www.geekwire.com/2014/happened-lockerz-assets-heavily-funded-startup-purchased-chinese-e-commerce-company/" target="_blank">Lockerz was acquired</a> by <a href="https://www.lightinthebox.com" target="_blank">LightInTheBox</a>
+
+---

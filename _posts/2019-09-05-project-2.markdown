@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 2
+date: 2019-09-05
+title: RapidEngage
+img: rapidengage.png
+img-thumb: rapidengage-thumb.png
+alt: Rapid Engage
+site: rapidengage.com
+site-url: https://www.crunchbase.com/organization/rapidengage
+project-date: May 2013 - Dec 2014
+position: Co-Founder & CTO
+description: RapidEngage (a.k.a. SlimSurveys) was solving the problem of increasing website engagement. The website engagement tool-suite automatically delivered more signups, conversions, sales, and pageviews by up to 25% for marketers, product managers, and website owners. With the Engagement Layer technology, website owners were able to deliver the right message, to the right person, at the right time, without ever having to modify their site code.<br><br><a href="https://xconomy.com/san-diego/2014/12/11/seattles-questionpro-acquires-rapidengage-aka-slimsurveys/" target="_blank">RapidEngage was acquired</a> by <a href="https://www.questionpro.com" target="_blank">QuestionPro</a>
+
+---

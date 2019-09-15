@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 5
+date: 2019-09-02
+title: Pelotonics
+img: pelotonics.png
+img-thumb: pelotonics-thumb.png
+alt: Pelotonics
+site: pelotonics.com
+site-url: https://www.crunchbase.com/organization/pelotonics
+project-date: Mar 2008 - Jan 2012
+position: Co-Founder & CTO
+description: Pelotonics was a group collaboration platform making it easier for teams of people to work together and get more done. With it's powerful, yet easy to use, planning, collaboration and tracking tools your team will accomplish more than ever before in less time than was ever thought possible.
+
+---

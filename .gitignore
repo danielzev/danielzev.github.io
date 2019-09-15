@@ -1,2 +1,5 @@
-# ignore local OSX files
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
 .DS_Store

@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 6
+date: 2019-09-01
+title: RioLearn
+img: riolearn.png
+img-thumb: riolearn-thumb.png
+alt: RioLearn
+site: riolearn.org
+site-url: http://www.riosalado.edu/riolearn/Pages/default.aspx
+project-date: Jan 2005 - Sep 2007
+position: Web/Database Applications Developer
+description: RioLearn is the LMS (Learning Management System) built in-house by Rio Salado Community College.
+
+---

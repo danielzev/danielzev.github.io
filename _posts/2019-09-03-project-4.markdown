@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 4
+date: 2019-09-03
+title: Plixi
+img: plixi.png
+img-thumb: plixi-thumb.png
+alt: Plixi
+site: plixi.com
+site-url: https://www.crunchbase.com/organization/plixi
+project-date: Nov 2009 - Jan 2011
+position: CTO
+description: Plixi (a.k.a. TweetPhoto) was an enormously popular social photo sharing application with more than 300 developers integrating into its photo sharing technology. This led to serving up more than 1 billion photos per month to 45 million users, more than 100 million API requests per day, and reaching an Alexa top 180 website.<br><br><a href="https://techcrunch.com/2011/01/27/exclusive-lockerz-acquires-social-photo-sharing-app-plixi-formerly-tweetphoto/" target="_blank">Plixi was acquired for $10M</a> by <a href="https://www.crunchbase.com/organization/ador" target="_blank">Lockerz</a>
+
+---
